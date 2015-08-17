@@ -1,0 +1,59 @@
+<meta>
+	<info type="script"/>
+    <script src="tutorial_s.lua" type="server" />
+    <script src="tutorial_c.lua" type="client" />
+    <file src="Logo.png" />
+	<file src="Blood.png" />
+	<file src="Coach.png" />
+	<file src="shader.fx" />
+    <!-- Ab hier alles vom Hud 
+    <file src="HUD/0.png" />
+    <file src="HUD/1.png" />
+    <file src="HUD/2.png" />
+    <file src="HUD/3.png" />
+    <file src="HUD/4.png" />
+    <file src="HUD/5.png" />
+    <file src="HUD/6.png" />
+    <file src="HUD/7.png" />
+    <file src="HUD/8.png" />
+    <file src="HUD/9.png" />
+	<file src="HUD/10.png" />
+	<file src="HUD/11.png" />
+	<file src="HUD/12.png" />
+	<file src="HUD/13.png" />
+    <file src="HUD/14.png" />
+    <file src="HUD/15.png" />
+    <file src="HUD/16.png" />
+    <file src="HUD/17.png" />
+    <file src="HUD/18.png" />
+	<file src="HUD/19.png" />
+	<file src="HUD/20.png" />
+	<file src="HUD/21.png" />
+    <file src="HUD/22.png" />
+    <file src="HUD/23.png" />
+    <file src="HUD/24.png" />
+    <file src="HUD/25.png" />
+    <file src="HUD/26.png" />
+    <file src="HUD/27.png" />
+    <file src="HUD/28.png" />
+    <file src="HUD/29.png" />
+    <file src="HUD/30.png" />
+    <file src="HUD/31.png" />
+    <file src="HUD/32.png" />
+    <file src="HUD/33.png" />
+    <file src="HUD/34.png" />
+    <file src="HUD/35.png" />
+    <file src="HUD/36.png" />
+    <file src="HUD/37.png" />
+    <file src="HUD/38.png" />
+    <file src="HUD/39.png" />
+	<file src="HUD/40.png" />
+    <file src="HUD/41.png" />
+    <file src="HUD/42.png" />
+    <file src="HUD/43.png" />
+	<file src="HUD/44.png" />
+	<file src="HUD/45.png" />
+    <file src="HUD/46.png" />
+    <file src="HUD/Wanted.png" />-->
+    <min_mta_version client="1.3.1-9.04690"></min_mta_version>
+</meta>

@@ -1,0 +1,5 @@
+<icons>
+    <Icon PosX="1544.0517578125" PosY="-1678.6474609375" PosZ="13.057654380798" Header="Information" Text="Das ist das LSPD, das Hauptquartier der Polizei." FarbeRot="0" FarbeGruen="0" FarbeBlau="200"></Icon>
+    <Icon PosX="1544.013671875" PosY="-1672.8896484375" PosZ="13.057579994202" Header="Warnung" Text="Wenn du dich nicht benimmst, kommst du hier in den Knast!" FarbeRot="200" FarbeGruen="0" FarbeBlau="0"></Icon>
+    <Icon PosX="1510.626953125" PosY="-1668.5849609375" PosZ="13.546875" Header="Information" Text="Das ist eine Palme." FarbeRot="0" FarbeGruen="200" FarbeBlau="0"></Icon>
+</icons>
